@@ -13,6 +13,7 @@ import { SearchedProtocol } from "./SearchedProtocol";
 import { ProtocolList } from "./protocolList";
 import { InputAddress } from "./InputAddress";
 import { useEffect } from "react";
+import React from "react";
 
 function App() {
   const action = useNavigationType();
